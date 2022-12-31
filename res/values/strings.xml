@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="menu_hint">Enter the character of your word here</string>
+    <string name="enter_btn">Enter</string>
+    <string name="refresh_btn">refresh</string>
+    <string name="dialog_start_game">Play again?</string>
+    <string name="start">Play</string>
+    <string name="cancel">Exit</string>
+</resources>
