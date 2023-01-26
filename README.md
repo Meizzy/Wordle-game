@@ -12,7 +12,7 @@ When the letter is highlighted -red : The letter is not in the word.
 
 * Navigation components
 
-* Dialogs
+* Alert Dialogs
 
 * ...
 
